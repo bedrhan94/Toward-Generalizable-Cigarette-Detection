@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Data and media: no human-subject footage, frames or figures belong in this repository
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.jpg
+*.jpeg
+*.png
+*.tif
+*.tiff
+datasets/
+data/
+Full_Dataset/
+CVAT_UPLOAD/
+CVAT_EXPORT/
+Ground_Truth/
+
+# Training artefacts
+runs/
+runs_*/
+*.pt
+!weights/yolo11m_cigarette_finetuned.pt
+
+# Analysis outputs
+outputs/
+*.jsonl
+*.db
+
+# Editors / OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
