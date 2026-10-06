@@ -122,8 +122,3 @@ the underlying model.
 
 A citation entry will be added once the paper is published. Until then please cite it as under
 review.
-
-## Contact
-
-**Bedirhan Bedir** — bedirhanbedir@topkapi.edu.tr
-İstanbul Topkapı University
